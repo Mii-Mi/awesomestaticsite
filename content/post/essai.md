@@ -13,4 +13,4 @@ Ceci est une image de cafetière !
 
 ## Chouette, non ?
 
-voir plus de \[café\](/content/cafe-fake.md) .
+voir plus de \[café\](/cafe-fake.md) .
