@@ -12,3 +12,5 @@ Ceci est une image de cafetière !
 ![](/uploads/the-noir.png)
 
 ## Chouette, non ?
+
+voir plus de [café](cafe-fake.md) .
