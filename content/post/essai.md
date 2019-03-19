@@ -9,7 +9,7 @@ title = "Essai"
 
 Ceci est une image de cafetière !
 
-![](/uploads/the-noir.png)
+![tasse](/uploads/the-noir.png "tasse")
 
 ## Chouette, non ?
 
