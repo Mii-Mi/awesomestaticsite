@@ -1,0 +1,15 @@
+---
+label: article
+hide_body: false
+fields:
+- type: text
+  label: Titre
+  name: Titre
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+- type: file
+  name: image
+  label: image
