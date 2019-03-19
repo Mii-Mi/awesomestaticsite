@@ -7,5 +7,4 @@ fields:
   label: je m'exprime
   description: description
 pages:
-- content/post/wtf.md
 - content/post/exp.md
