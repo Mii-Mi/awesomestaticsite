@@ -1,0 +1,8 @@
+---
+label: textarea
+hide_body: false
+fields:
+- type: textarea
+  name: je_m_exprime
+  label: je m'exprime
+  description: description
