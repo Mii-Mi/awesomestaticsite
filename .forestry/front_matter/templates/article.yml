@@ -2,14 +2,18 @@
 label: article
 hide_body: false
 fields:
-- type: text
-  label: Titre
-  name: Titre
-- type: datetime
-  name: date
-  label: date
-  config:
-    date_format: DD/MM/YYYY
-- type: file
-  name: image
-  label: image
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
