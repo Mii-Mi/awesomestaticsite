@@ -16,4 +16,5 @@ fields:
   label: texte
   default: kdjfudg ndkguedtyf sdqikfuh
 pages:
+- content/post/titre-1.md
 - content/post/titre.md
